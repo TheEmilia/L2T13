@@ -1,12 +1,27 @@
 # L2T13
-The project name.
-○Aclear,short,andtothepointdescriptionofyourproject.Describe
+
+Aclear,short,andtothepointdescriptionofyourproject.Describe
 the importance of your project, and what it does.
-○AtableofContentstoallowotherpeopletoquicklynavigate
+This project is a simulation of a database used by a bookstore. This is to familiarise myself with SQL and sqlite3 in python.
+
+AtableofContentstoallowotherpeopletoquicklynavigate
 especially long or detailed READMEs.
-○Aninstallationsectionwhichtellsotherusershowtoinstallyour
-project locally.
-○Ausagesectionthatinstructsothersonhowtouseyourprojectafter
-they’ve installed it. Include screenshots of your project in action.
-○Asectionforcreditswhichhighlightsandlinkstotheauthorsofyour
-project if the project has been created by more than one person.
+
+## Index
+
+1. Installation
+2. Usage
+3. Credits
+
+### Installation
+
+Can be installed by cloning the repository and running bookstore.py.
+
+### Usage
+
+Input the number of the command you wish to run, then follow the instructions presented in the console.
+
+### Credits
+
+- HyperionDev
+- TheEmilia
